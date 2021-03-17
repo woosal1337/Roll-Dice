@@ -1,6 +1,5 @@
 # 🎲 Roll Dice
-### Random Roll Dice Web Application using React codes go here.
-
+### Random Roll Dice Web Application using React.
 
 <quote>Scrimba followed React.js course final project source codes go here</quote> 
 
